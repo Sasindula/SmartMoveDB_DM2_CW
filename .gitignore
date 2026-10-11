@@ -1,0 +1,12 @@
+/config.local.php
+/SmartMoveDB_private/
+*.log
+*.zip
+/uploads/*
+!/uploads/docs/
+/uploads/docs/*
+!/uploads/docs/CP2345_insurance.pdf
+!/uploads/docs/NP3423_license.pdf
+!/uploads/docs/SP4521_emission.pdf
+!/uploads/docs/WB5638_insurance.pdf
+!/uploads/docs/WP7812_service.pdf
